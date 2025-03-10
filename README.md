@@ -1,11 +1,11 @@
 # Excel-Dashboards
 Excel dashboards for sales of products 
 # Features
->Interactive sales charts
->Two dataset to different dashboards and charts
->Pivot tables for quick analysis
->Macros use for clear button to clear all filters
->Using Different slicers and understand manner
+>Interactive sales charts,
+>Two dataset to different dashboards and charts,
+>Pivot tables for quick analysis,
+>Macros use for clear button to clear all filters,
+>Using Different slicers and understand manner.
 # Tools used
 "Microsoft Excel"
 "Power Query"
