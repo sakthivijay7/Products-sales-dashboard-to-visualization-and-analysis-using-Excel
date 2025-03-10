@@ -16,6 +16,6 @@ Excel dashboards for sales of products
 2.![2_Capture](https://github.com/user-attachments/assets/c99461ce-922d-4b40-a7b1-5f7b40f49f87)
 # How to use
 a)Download the two 1_Sales_Dashboard.xlsm and 2_Sales_Dashboard.xlsx files
-b)open it in Microsoft Excel and Enable editing and also Disable macros seurity.
+b)open it in Microsoft Excel and Enable editing and also Disable macros security.
 
 
